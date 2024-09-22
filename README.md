@@ -8,7 +8,7 @@ Welcome to my personal website repository! Here, you can find the source code an
 
 You can check out my website at the following link:
 
-[My Website](https://www.inforadda.com)
+[inforadda](https://www.inforadda.com)
 
 ## Features
 
